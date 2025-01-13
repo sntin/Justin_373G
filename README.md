@@ -20,7 +20,7 @@
 > - Pro tip: Don’t just perform trial and error, look through every function and follow the logic and outputs
 
 > [!TIP]
-> - **If you messed up and accidentally Git pushed, simply drop the commit and force push to your branch**
+> - **If you messed up and accidentally Git pushed, simply drop the commit and force push to your fork, you have full control over it!**
 > - **Those underscores in tracers.py are hiding something useful...**
 
 ### What you should be seeing when you run `python main.py` (windows are resized)
